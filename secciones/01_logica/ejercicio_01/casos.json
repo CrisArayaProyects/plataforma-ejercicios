@@ -1,0 +1,7 @@
+{
+  "casos": [
+    {"input": "5\n3", "output_esperado": "8"},
+    {"input": "10\n-2", "output_esperado": "8"},
+    {"input": "0\n0", "output_esperado": "0"}
+  ]
+}
